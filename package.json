@@ -1,0 +1,40 @@
+{
+  "name": "spareparts",
+  "version": "0.1.0-beta.1",
+  "description": "3d models of various random electronic and mechanical components for OpenSCAD",
+  "files": [
+    "arduino.scad",
+    "descrete.scad",
+    "microchips.scad",
+    "panel-mount.scad",
+    "plugs-n-jacks.scad",
+    "sensors.scad",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "2d_points": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sadr0b0t/spareparts.git"
+  },
+  "keywords": [
+    "OpenSCAD",
+    "pcb",
+    "panel mount",
+    "descrete",
+    "components",
+    "sensors",
+    "electronics",
+    "microchips",
+    "arduino"
+  ],
+  "author": "sadr0b0t",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sadr0b0t/spareparts/issues"
+  },
+  "homepage": "https://github.com/sadr0b0t/spareparts"
+}
+
