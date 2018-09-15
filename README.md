@@ -1,6 +1,19 @@
 # spareparts
 3d models of various random electronic and mechanical components for OpenSCAD
 
+# Install
+thingiverse: https://www.thingiverse.com/thing:3101512
+
+Also available from Openscad-Modules repo https://github.com/RobertFach/Openscad-Modules
+
+~~~bash
+spm install spareparts
+~~~
+
+requires: https://github.com/sadr0b0t/2d_points
+
+## Modules
+
 Descrete logic for PCB
 ~~~scad
 use <spareparts/descrete.scad>

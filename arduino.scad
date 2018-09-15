@@ -15,7 +15,7 @@ module all_arduino() {
     chipkit_uno32();
     translate([100, 0, 0]) arduino_uno();
     translate([200, 0, 0]) arduino_uno_china();
-    translate([300, 0, 0])  cnc_shield(drivers=true, drivers_radiator=false);
+    translate([300, 0, 0]) cnc_shield(drivers=true, drivers_radiator=false);
 }
 
 /**
